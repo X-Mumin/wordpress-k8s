@@ -1,0 +1,7 @@
+resources:
+  - secret.yaml
+  - configmap.yaml
+  - storage.yaml
+  - statefulset.yaml
+  - wp-deployment.yaml
+  - ingress.yaml
